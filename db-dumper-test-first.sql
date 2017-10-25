@@ -1,5 +1,5 @@
 DROP TABLE IF EXISTS db-dumper-test;
-create table db-dumper-test (
+create table dbdumper-test (
 	id INT,
 	first_name VARCHAR(50),
 	last_name VARCHAR(50),
