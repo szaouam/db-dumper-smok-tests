@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS db-dumper-test;
+DROP TABLE IF EXISTS dbdumper-test;
 create table dbdumper-test (
 	id INT,
 	first_name VARCHAR(50),
