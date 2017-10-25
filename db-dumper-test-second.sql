@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS db-dumper-test-second;
 create table db-dumper-test-second (
 	id INT,
 	first_name VARCHAR(50),
